@@ -32,7 +32,7 @@ Simply open `index.html` in a browser to start using the app.
 - [Google Gemini AI API](https://aistudio.google.com/)
 - [Marked.js](https://marked.js.org/) (for Markdown rendering)
 
-## Roadmap
+## Future of this project(if i dun act lazy):
 - [ ] Improve AI prompt handling and response formatting
 - [ ] Add support for saving projects locally
 - [ ] Implement a cloud storage option for projects
